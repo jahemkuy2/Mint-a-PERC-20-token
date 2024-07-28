@@ -39,14 +39,14 @@ Token Symbol : pIZZY
 ### Mint Token
 
 ```
-https://explorer-evm.testnet.swisstronik.com/tx/0xddd22416858028f01bd3949cc43331cf5baf009b1b4e1d35e48b1eba7d78a65e
+https://explorer-evm.testnet.swisstronik.com/tx/0xce2a0c03ba6a4e49c5f7aae4c194421ca72d8423dcb4cdf13b5e4991d47a33fe
 ```
 
 TX Transfer
 Token Transfer "1" to Address ```0x16af037878a6cAce2Ea29d39A3757aC2F6F7aac1```
 
 ```
-https://explorer-evm.testnet.swisstronik.com/tx/0xce2a0c03ba6a4e49c5f7aae4c194421ca72d8423dcb4cdf13b5e4991d47a33fe
+Tx hash : https://explorer-evm.testnet.swisstronik.com/tx/0xcd96a015c3a9193303a9dc5ec31066f7139271f7fea80ed0a1bde17d4c0877f8
 ```
 ## Image Proof
 
